@@ -25,13 +25,13 @@
 <img width="1353" height="768" alt="Screenshot 2" src="https://github.com/user-attachments/assets/be3455ef-100e-4aa9-b921-6de3a8d437cb" />
 
 ### How It Works
-![Uploading Screenshot 4.png…]()
+<img width="1349" height="694" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c77a0048-eb6c-4c06-ad60-9c52fa34783d" />
 
 ### Pricing
 <img width="1349" height="694" alt="Screenshot 5" src="https://github.com/user-attachments/assets/84ea2397-da7e-4351-8269-21013033b6de" />
 
 ### Testimonials
-![Uploading Screenshot 6.png…]()
+<img width="1344" height="692" alt="Screenshot 6" src="https://github.com/user-attachments/assets/189fd9d0-8a35-4020-90a6-ce631127dc4c" />
 
 ### Footer
 <img width="1351" height="705" alt="Screenshot 8" src="https://github.com/user-attachments/assets/4e599143-41e2-4378-aad7-1296a3e3f1df" />
