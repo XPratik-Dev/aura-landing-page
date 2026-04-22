@@ -19,22 +19,23 @@
 ## Preview
 
 ### Hero
-Clean gradient headline, animated stat counters (50K+ builders · 2M+ projects · 99.9% uptime), and a floating dashboard mockup.
+<img width="1348" height="709" alt="Screenshot 1" src="https://github.com/user-attachments/assets/865a7fd6-b520-477b-81d6-f8bc4423d510" />
 
 ### Features — Bento Grid
-Mixed-size cards with live UI mockups — Lightning fast builds, AI-powered studio, and more.
+<img width="1353" height="768" alt="Screenshot 2" src="https://github.com/user-attachments/assets/be3455ef-100e-4aa9-b921-6de3a8d437cb" />
 
 ### How It Works
-3-step process: Connect your stack → Build with AI → Ship & scale.
+![Uploading Screenshot 4.png…]()
 
 ### Pricing
-Monthly / Annual billing toggle. Three tiers — Starter ($0) · Pro ($49/mo) · Enterprise ($199/mo).
+<img width="1349" height="694" alt="Screenshot 5" src="https://github.com/user-attachments/assets/84ea2397-da7e-4351-8269-21013033b6de" />
 
 ### Testimonials
-6 customer review cards from real-looking personas with 5-star ratings.
+![Uploading Screenshot 6.png…]()
 
 ### Footer
-Multi-column footer — Product · Developers · Company · Legal.
+<img width="1351" height="705" alt="Screenshot 8" src="https://github.com/user-attachments/assets/4e599143-41e2-4378-aad7-1296a3e3f1df" />
+
 
 ---
 
